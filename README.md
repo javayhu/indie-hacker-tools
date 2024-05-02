@@ -43,6 +43,7 @@
 | [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
 | [Remix](https://remix.run/) |  基于 React，Next.js最大竞争对手 |
 | [Nuxt](https://nuxt.com/) | 基于 Vue |
+| [Nuxt](https://nuxt.com/) | 基于 Haha |
 
 ### 后端
 
